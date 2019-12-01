@@ -4,7 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
-discord-py = {version = "1.2.5"}
+discord.py = {version = "1.2.5"}
 
 [requires]
 python_version = "3.7"
