@@ -1,5 +1,6 @@
 from discord.ext import commands
 import os
+import discord
 import traceback
 print(discord.__version__)
 bot = commands.Bot(command_prefix='/')
