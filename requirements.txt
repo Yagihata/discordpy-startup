@@ -1,2 +1,2 @@
-discord.py-rw==1.2.5
+discord.py-rw==1.0.0a0.post2
 pytest-flake8
